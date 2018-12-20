@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/backimage2.jpg</file>
+        <file>assets/WOLFFLAMELOGO.tga</file>
+        <file>assets/WOLFICON.tga</file>
+        <file>assets/gold_line.tga</file>
+        <file>assets/BLACKGRAD.tga</file>
+        <file>assets/flame.tga</file>
+        <file>assets/backimage4.tga</file>
+        <file>assets/bands.tga</file>
+        <file>assets/video_over1.tga</file>
+        <file>assets/band2.tga</file>
+        <file>assets/fadebox.tga</file>
+        <file>a.jpg</file>
+        <file>std.frag</file>
+        <file>std.geom</file>
+        <file>std.vert</file>
+    </qresource>
+</RCC>
